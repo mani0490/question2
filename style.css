@@ -1,0 +1,200 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 575.98px) { 
+
+}
+
+@media (max-width: 768px) { 
+
+}
+
+@media (max-width: 991px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+}
+/* Add a black background color to the top navigation */
+
+  
+  /* Style the links inside the navigation bar */
+ 
+  /* Change the color of links on hover */
+ 
+  
+  /* Add an active class to highlight the current page */
+  
+  
+  /* Hide the link that should open and close the topnav on small screens */
+  
+  .main{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+  }
+  .header{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    display: flex;
+  }
+  .headerleft{
+    width: 40%;
+  }
+  .headerright{
+    width: 60%;
+       text-transform: uppercase;
+    margin-top: 10px;
+  }
+  .headerright h2 SEO{
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+  }
+  .headerright h2 SEO span{
+    font-weight: bold;
+  }
+  .bottom{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    background-color: #B9B9B9;
+  }
+  .bottomleft{
+    width: 40%;
+    height: 100%;
+  }
+  .bottomright{
+    width: 60%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 3% 27% 5% 5%;
+  }
+  .bottomleft img{
+    width: auto;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 70px;
+  }
+  .inner{
+    width: 100%;
+    height: 100%;
+  }
+  .inner p{
+    text-transform: uppercase;
+    color: blue;
+    font-size: 15px;
+  }
+  .inner h3{
+    font-size: 25px;
+    font-weight: 100;
+    text-align: justify;
+  }
+  .inner h3 span{
+    font-weight: bold;
+  }
+  .text{
+    width: 100%;
+    height: auto;
+  }
+  .text p{
+    font-size: 15px;
+    color: black;
+    text-align: justify;
+  }
+  .button{
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding-top: 5px;
+  }
+  .button p{
+    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+  }
+  .bottom2{
+    width: 100%;
+    height: 450px;
+    display: flex;
+  }
+  .bottom2left{
+    width: 50%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 5% 10% 0% 10%;
+  }
+  .bottom2right{
+    width: 50%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 20px 20px;
+  }
+  .inner2{
+    width: 100%;
+    height: 100%;
+
+  }
+  .inner2 p{
+    text-transform: uppercase;
+    color: blue;
+    font-size: 15px;
+  }
+  .inner2right{
+    width: 100%;
+    height: 100%;
+  }
+  .inner2right img{
+    width: 100%;
+    height: 100%;
+  }
+  .inner2 h3{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: black;
+  }
+  .text2 span{
+    font-size: 15px;
+    color: black;
+    text-align: justify;
+    line-height: 2;
+    word-spacing: 2;
+  }
+  .button2{
+    width: 150px;
+    height: 30px;
+    background-color: blue;
+    box-sizing: border-box;
+    padding-top: 5px;
+  }
+  .button2 p{
+    font-size: 15px;
+    text-transform: capitalize;
+    text-align: center;
+    color: white;
+  }
